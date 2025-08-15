@@ -1,0 +1,1 @@
+# Proyecto-Plan-de-mantenimiento-basado-en-simulacion-CAD-de-gemelo-digital
